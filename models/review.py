@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Review module for the HBNB project """
+""" Review module for the hbnb project """
 from models.base_model import BaseModel
 
 
